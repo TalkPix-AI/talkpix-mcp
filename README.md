@@ -21,6 +21,7 @@ Every tool that spends credits returns the price first and starts nothing. The a
 | Tool | What it does | Spends credits |
 |---|---|---|
 | `create_product_ad` | UGC-style ad: a TalkPix presenter holds your product and says the script the assistant writes, in the language you pick | yes, after price check |
+| `create_talking_photo` | Makes the person in a photo speak a script the assistant writes, in a voice it picks | yes, after price check |
 | `start_generation` | AI video from a prompt (optionally from a photo) | yes, after price check |
 | `estimate_cost` | Credits a video would cost | no |
 | `list_models` | Video models with their lengths and credit prices | no |

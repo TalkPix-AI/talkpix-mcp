@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.TalkPix-AI/talkpix",
+  "name": "io.github.talkpixai/talkpix",
   "title": "TalkPix",
   "description": "AI product ads, talking-photo and AI videos from chat. Price shown before credits are spent.",
   "version": "1.0.0",
